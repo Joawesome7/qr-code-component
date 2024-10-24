@@ -1,0 +1,36 @@
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #D6E1F0;
+}
+
+article {
+  width: 300px;
+  height: 480px;
+  background-color: #FDFFFD;
+  border-radius: 15px;
+  padding: 20px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 23px;
+  margin: 25px 0 25px 0;
+}
+
+img {
+  width: 300px;
+  border-radius: 10px;
+}
+
+p {
+  color: #706f6f;
+}
+
+.attribution {
+  background-color: #D6E1F0;
+  text-align: center;
+}
